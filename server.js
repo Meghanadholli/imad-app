@@ -22,14 +22,14 @@ var articles={
 },
   'article-two':{title: 'Article Two | Meghana D',
     heading: 'Article Two',
-    date: 'Aug 20, 2017',
+    date: 'Aug 21, 2017',
     content: `<p>
                     This is the content for my second article.
                  </p>`
   },
   'article-three': {title: 'Article Three | Meghana D',
     heading: 'Article Three',
-    date: 'Aug 20, 2017',
+    date: 'Aug 23, 2017',
     content: `<p>
                     This is the content for my third article.
                  </p>`}
